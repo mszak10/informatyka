@@ -1,6 +1,8 @@
 /venv/
+/.idea
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/modules.xml
 /.idea/misc.xml
 /.idea/informatyka.iml
 /.idea/.gitignore
+/.idea/vcs.xml
